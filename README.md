@@ -1,3 +1,9 @@
+Disclaimer: This app was initially created with the "create-react-app" toolchain, as mentioned below, so that I can focus mainly on the functionality of this project. Since this is only a single-page application, I opted to use this this toolchain as it sets up everything that I would need for my environment, and I thought it'd be efficient for what was asked. 
+
+Alongside my implementation, I have also tweaked it to include React Bootstrap CSS (https://react-bootstrap.github.io/), with some of my own minor CSS, to make the page look nice/usable. I also have tweaked some of the boilerplate code to make it relevant to the project. I hope you enjoy what I've created! I tried to keep things as simple and clean as possible. Any feedback is greatly appreciated :) (menane95@gmail.com)
+
+-----------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
